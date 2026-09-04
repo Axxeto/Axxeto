@@ -94,7 +94,7 @@
 
 ### 🏆 RPG Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=Axxeto&theme=darkhub&no-bg=true&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=[USERNAME]&theme=darkhub&no-bg=true&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" />
 
 </div>
 
@@ -110,15 +110,15 @@
 <table align="center" border="0" cellspacing="10" cellpadding="0">
 <tr>
 <td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=Axxeto&theme=raw&bg_color=23171B&title_color=D32F2F&text_color=F5E6D3&icon_color=D32F2F&border_color=4A2E35&show_icons=true&hide_border=false&hide_title=false" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=[USERNAME]&theme=raw&bg_color=23171B&title_color=D32F2F&text_color=F5E6D3&icon_color=D32F2F&border_color=4A2E35&show_icons=true&hide_border=false&hide_title=false" width="100%"/>
 </td>
 <td valign="top" width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Axxeto&theme=dark&background=23171B&stroke=4A2E35&ring=D32F2F&fire=D32F2F&currStreakLabel=F5E6D3&currStreakNum=F5E6D3&sideLabels=F5E6D3&sideNums=F5E6D3&dates=F5E6D3&hide_border=false&border=4A2E35" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=[USERNAME]&theme=dark&background=23171B&stroke=4A2E35&ring=D32F2F&fire=D32F2F&currStreakLabel=F5E6D3&currStreakNum=F5E6D3&sideLabels=F5E6D3&sideNums=F5E6D3&dates=F5E6D3&hide_border=false&border=4A2E35" width="100%"/>
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axxeto&layout=compact&theme=raw&bg_color=23171B&title_color=D32F2F&text_color=F5E6D3&border_color=4A2E35&hide_border=false&langs_count=8" width="55%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME]&layout=compact&theme=raw&bg_color=23171B&title_color=D32F2F&text_color=F5E6D3&border_color=4A2E35&hide_border=false&langs_count=8" width="55%"/>
 
 </div>
 
@@ -132,10 +132,12 @@
 ### 🐍 Daily Grind Log
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Axxeto/Axxeto/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Axxeto/Axxeto/output/github-contribution-grid-snake.svg" />
-  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/Axxeto/Axxeto/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/github-contribution-grid-snake.svg" />
+  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
+
+<sub>⚠️ Belum aktif? Ikuti setup singkat "Cara Mengaktifkan Snake Graph" di bawah README.</sub>
 
 </div>
 
@@ -157,7 +159,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Axxeto&label=Tea+Room+Visitors&color=D32F2F&style=for-the-badge&labelColor=23171B" />
+<img src="https://komarev.com/ghpvc/?username=[USERNAME]&label=Tea+Room+Visitors&color=D32F2F&style=for-the-badge&labelColor=23171B" />
 
 <br/><br/>
 <sub>🍵 "Setiap baris kode adalah seduhan teh yang lebih matang." 🍵</sub>
