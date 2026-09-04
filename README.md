@@ -4,7 +4,7 @@
 <!--  1. HEADER BANNER — PIXEL TEA ROOM (SVG, self-contained) -->
 <!-- ================================================== -->
 <p align="center">
-  <img src="assets/banner.png" alt="Axxet's Tea Corner Banner" width="100%" style="border-radius: 10px;">
+  <img src="assets/Banner.png" alt="Axxet's Tea Corner Banner" width="100%" style="border-radius: 10px;">
 </p>
 
 <!-- ================================================== -->
