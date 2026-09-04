@@ -45,7 +45,7 @@
 
 ### 🏆 Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=Axxeto&theme=algolia&no-bg=true&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=Axxeto&theme=algolia&no-bg=true&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" alt="GitHub Trophies untuk Axxeto — layanan vercel.app pihak ketiga; jika kosong, kemungkinan sedang kena limit upstream (402), coba lagi nanti" />
 
 </div>
 
@@ -53,6 +53,11 @@
 
 <!-- ================================================== -->
 <!--  6. STATS GRID — SIDE-BY-SIDE METRICS                -->
+<!--  Kartu Stats & Top Languages di-generate sendiri     -->
+<!--  lewat GitHub Actions (lihat .github/workflows/      -->
+<!--  update-cards.yml) — bukan lagi memanggil server     -->
+<!--  vercel.app pihak ketiga, jadi tidak akan kena 402    -->
+<!--  atau rate limit lagi. SVG-nya ada di /profile/.      -->
 <!-- ================================================== -->
 <div align="center">
 
@@ -61,7 +66,7 @@
 <table align="center" border="0" cellspacing="10" cellpadding="0">
 <tr>
 <td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=Axxeto&theme=react&bg_color=0A0E1A&title_color=4FC3F7&text_color=E8F4FD&icon_color=2196F3&border_color=2196F3&show_icons=true&hide_border=false&hide_title=false&cache_seconds=1800" width="100%"/>
+<img src="profile/stats.svg" alt="GitHub stats Axxeto" width="100%"/>
 </td>
 <td valign="top" width="50%">
 <img src="https://streak-stats.demolab.com/?user=Axxeto&theme=dark&background=0A0E1A&stroke=2196F3&ring=2196F3&fire=4FC3F7&currStreakLabel=E8F4FD&currStreakNum=E8F4FD&sideLabels=E8F4FD&sideNums=E8F4FD&dates=E8F4FD&hide_border=false&border=2196F3" width="100%"/>
@@ -69,7 +74,9 @@
 </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axxeto&layout=compact&theme=react&bg_color=0A0E1A&title_color=4FC3F7&text_color=E8F4FD&border_color=2196F3&hide_border=false&langs_count=8&cache_seconds=1800" width="55%"/>
+<img src="profile/top-langs.svg" alt="Top languages Axxeto" width="55%"/>
+
+<sub>⚙️ Kartu Stats & Top Languages di atas di-generate otomatis tiap hari lewat GitHub Actions (self-hosted, bukan server pihak ketiga) — lihat <code>.github/workflows/update-cards.yml</code>. Jalankan sekali secara manual dari tab Actions kalau <code>profile/stats.svg</code> belum muncul.</sub>
 
 </div>
 
