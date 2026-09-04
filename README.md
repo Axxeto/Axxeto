@@ -14,7 +14,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80-2196F3?style=flat-square&labelColor=2196F3&color=2196F3" height="3"/>
+<img src="https://img.shields.io/badge/%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80-2196F3?style=flat-square&labelColor=2196F3&color=2196F3" height="3"/>
 
 </div>
 
@@ -61,15 +61,15 @@
 <table align="center" border="0" cellspacing="10" cellpadding="0">
 <tr>
 <td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=Axxeto&theme=react&bg_color=0A0E1A&title_color=4FC3F7&text_color=E8F4FD&icon_color=2196F3&border_color=2196F3&show_icons=true&hide_border=false&hide_title=false" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Axxeto&theme=react&bg_color=0A0E1A&title_color=4FC3F7&text_color=E8F4FD&icon_color=2196F3&border_color=2196F3&show_icons=true&hide_border=false&hide_title=false&cache_seconds=1800" width="100%"/>
 </td>
 <td valign="top" width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Axxeto&theme=dark&background=0A0E1A&stroke=2196F3&ring=2196F3&fire=4FC3F7&currStreakLabel=E8F4FD&currStreakNum=E8F4FD&sideLabels=E8F4FD&sideNums=E8F4FD&dates=E8F4FD&hide_border=false&border=2196F3" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=Axxeto&theme=dark&background=0A0E1A&stroke=2196F3&ring=2196F3&fire=4FC3F7&currStreakLabel=E8F4FD&currStreakNum=E8F4FD&sideLabels=E8F4FD&sideNums=E8F4FD&dates=E8F4FD&hide_border=false&border=2196F3" width="100%"/>
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axxeto&layout=compact&theme=react&bg_color=0A0E1A&title_color=4FC3F7&text_color=E8F4FD&border_color=2196F3&hide_border=false&langs_count=8" width="55%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axxeto&layout=compact&theme=react&bg_color=0A0E1A&title_color=4FC3F7&text_color=E8F4FD&border_color=2196F3&hide_border=false&langs_count=8&cache_seconds=1800" width="55%"/>
 
 </div>
 
@@ -94,7 +94,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80-2196F3?style=flat-square&labelColor=2196F3&color=2196F3" height="3"/>
+<img src="https://img.shields.io/badge/%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80-2196F3?style=flat-square&labelColor=2196F3&color=2196F3" height="3"/>
 
 <!-- ================================================== -->
 <!--  8. FOOTER — SOCIAL BUTTONS                          -->
