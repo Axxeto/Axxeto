@@ -4,7 +4,7 @@
 <!--  1. HEADER BANNER — uploaded cyber-blue banner       -->
 <!-- ================================================== -->
 <p align="center">
-  <img src="/assets/Banner2.gif" width="100%" style="border-radius: 20px;">
+  <img src="/assets/Banner3.gif" width="100%" style="border-radius: 20px;">
 </p>
 
 <!-- ================================================== -->
