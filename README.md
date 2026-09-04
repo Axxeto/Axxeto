@@ -3,7 +3,9 @@
 <!-- ================================================== -->
 <!--  1. HEADER BANNER — uploaded cyber-blue banner       -->
 <!-- ================================================== -->
-<img src="assets/Banner.gif" alt="Axxet's Banner" width="100%"/>
+<p align="center">
+  <img src="/assets/Banner.gif" width="100%">
+</p>
 
 <!-- ================================================== -->
 <!--  2. TYPING SVG HEADER                                -->
