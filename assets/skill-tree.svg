@@ -1,127 +1,265 @@
-<svg width="820" height="380" viewBox="0 0 820 380" xmlns="http://www.w3.org/2000/svg" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpiOWRmOTkxMC0xMjI4LTRhYWYtYmIyMi00OGRmMGNmZDQ2M2MAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaIbMS0hAg4YCqlbyLPjudSsAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo4MGYxMmIwZi1kMzAwLTRmMjAtOGE2YS0yYjMxNWJhZmJkYjdscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoUVxlwosSWJAoa7sk3Ypl2QAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg1zAX0zeyPt36UgEJ9uTEMNN/rRwxeUtUsiMZ0CL4lAikZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaDoM6BpA99hH6vpWuA34vW8AAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCCzfbL9gUcihSyDAyIj9FtVKcVijJlkEpvUf4sU6FV6b2RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiWZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmI5ZGY5OTEwLTEyMjgtNGFhZi1iYjIyLTQ4ZGYwY2ZkNDYzYy9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjE5YTUzZmFlLTQyOWUtNDAwZS04YTlmLWRlMTI0NWE2NTM1YXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDXMBfTN7I+3fpSAQn25MQw03+tHDF5S1SyIxnQIviUCKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggNx1vHx0zZPhisII/coNdhonxRYNDIlkAerLpAMAdcEiiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggUm0Idnpcv5nhvcUW25+ZrsgDOj56rDO1WARfF1uvfOh0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQEp9GzSyQIFLoI4oBxtSA9mQLez+YbrMjO+qokl6vjrqQBC3IL1poEZ0dpeL0lQhLFVTK2YbauSLd3GbC35wsdI=</c2pa:manifest></metadata>
+<svg width="1200" height="870" viewBox="0 0 1200 870" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <filter id="nodeGlow" x="-60%" y="-60%" width="220%" height="220%">
-      <feGaussianBlur stdDeviation="2.5" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
+    <!-- glows -->
+    <filter id="glowGreen" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
-    <radialGradient id="nodeFill" cx="50%" cy="35%" r="70%">
-      <stop offset="0%" stop-color="#4FC3F7"/>
-      <stop offset="100%" stop-color="#2196F3"/>
+    <filter id="glowGold" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glowPurple" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softShadow" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
+
+    <!-- gradients -->
+    <radialGradient id="rootFill" cx="35%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#5CF0CE"/>
+      <stop offset="55%" stop-color="#2CC49B"/>
+      <stop offset="100%" stop-color="#158567"/>
     </radialGradient>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070a13"/>
+      <stop offset="55%" stop-color="#0a0f1e"/>
+      <stop offset="100%" stop-color="#0d0818"/>
+    </linearGradient>
+    <radialGradient id="vignette" cx="50%" cy="42%" r="70%">
+      <stop offset="0%" stop-color="#141c33" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- title font stack fallback handled inline -->
   </defs>
 
-  <rect width="820" height="380" rx="14" fill="#0A0E1A"/>
-  <rect x="2" y="2" width="816" height="376" rx="12" fill="none" stroke="#2196F3" stroke-width="1.5" opacity="0.5"/>
+  <!-- ============ BACKGROUND ============ -->
+  <rect width="1200" height="870" fill="url(#bgGrad)"/>
+  <rect width="1200" height="870" fill="url(#vignette)"/>
 
-  <text x="40" y="42" font-family="'Segoe UI', Arial, sans-serif" font-weight="700" font-size="20" fill="#E8F4FD" letter-spacing="1">SKILL TREE</text>
-  <rect x="40" y="52" width="90" height="3" fill="#2196F3"/>
-
-  <!-- ===== Connector lines (drawn first, under nodes) ===== -->
-  <g stroke="#2196F3" stroke-width="2" opacity="0.35">
-    <!-- root to branch roots -->
-    <line x1="90" y1="100" x2="90" y2="130"/>
-    <line x1="90" y1="130" x2="230" y2="130"/>
-    <line x1="90" y1="130" x2="230" y2="230"/>
-    <line x1="90" y1="130" x2="230" y2="330"/>
-    <!-- Language branch -->
-    <line x1="270" y1="130" x2="330" y2="130"/>
-    <line x1="330" y1="130" x2="330" y2="95"/>
-    <line x1="330" y1="130" x2="330" y2="165"/>
-    <line x1="330" y1="95" x2="410" y2="95"/>
-    <line x1="330" y1="165" x2="410" y2="165"/>
-    <!-- Tools branch -->
-    <line x1="270" y1="230" x2="330" y2="230"/>
-    <line x1="330" y1="230" x2="330" y2="200"/>
-    <line x1="330" y1="230" x2="330" y2="260"/>
-    <line x1="330" y1="200" x2="410" y2="200"/>
-    <line x1="330" y1="260" x2="410" y2="260"/>
-    <!-- Learning branch -->
-    <line x1="270" y1="330" x2="330" y2="330"/>
-    <line x1="330" y1="330" x2="330" y2="300"/>
-    <line x1="330" y1="330" x2="330" y2="335"/>
-    <line x1="330" y1="300" x2="410" y2="300"/>
-    <line x1="330" y1="335" x2="410" y2="335"/>
+  <!-- faint grid -->
+  <g stroke="#7C6FF0" stroke-width="1" opacity="0.05">
+    <g id="vlines"></g>
+  </g>
+  <g stroke="#7C6FF0" stroke-width="1" opacity="0.055">
+    <line x1="0" y1="0" x2="1200" y2="0"/>
+    <line x1="0" y1="40" x2="1200" y2="40"/><line x1="0" y1="80" x2="1200" y2="80"/><line x1="0" y1="120" x2="1200" y2="120"/>
+    <line x1="0" y1="160" x2="1200" y2="160"/><line x1="0" y1="200" x2="1200" y2="200"/><line x1="0" y1="240" x2="1200" y2="240"/>
+    <line x1="0" y1="280" x2="1200" y2="280"/><line x1="0" y1="320" x2="1200" y2="320"/><line x1="0" y1="360" x2="1200" y2="360"/>
+    <line x1="0" y1="400" x2="1200" y2="400"/><line x1="0" y1="440" x2="1200" y2="440"/><line x1="0" y1="480" x2="1200" y2="480"/>
+    <line x1="0" y1="520" x2="1200" y2="520"/><line x1="0" y1="560" x2="1200" y2="560"/><line x1="0" y1="600" x2="1200" y2="600"/>
+    <line x1="0" y1="640" x2="1200" y2="640"/><line x1="0" y1="680" x2="1200" y2="680"/><line x1="0" y1="720" x2="1200" y2="720"/>
+    <line x1="0" y1="760" x2="1200" y2="760"/><line x1="0" y1="800" x2="1200" y2="800"/>
+    <line x1="40" y1="0" x2="40" y2="820"/><line x1="80" y1="0" x2="80" y2="820"/><line x1="120" y1="0" x2="120" y2="820"/>
+    <line x1="160" y1="0" x2="160" y2="820"/><line x1="200" y1="0" x2="200" y2="820"/><line x1="240" y1="0" x2="240" y2="820"/>
+    <line x1="280" y1="0" x2="280" y2="820"/><line x1="320" y1="0" x2="320" y2="820"/><line x1="360" y1="0" x2="360" y2="820"/>
+    <line x1="400" y1="0" x2="400" y2="820"/><line x1="440" y1="0" x2="440" y2="820"/><line x1="480" y1="0" x2="480" y2="820"/>
+    <line x1="520" y1="0" x2="520" y2="820"/><line x1="560" y1="0" x2="560" y2="820"/><line x1="600" y1="0" x2="600" y2="820"/>
+    <line x1="640" y1="0" x2="640" y2="820"/><line x1="680" y1="0" x2="680" y2="820"/><line x1="720" y1="0" x2="720" y2="820"/>
+    <line x1="760" y1="0" x2="760" y2="820"/><line x1="800" y1="0" x2="800" y2="820"/><line x1="840" y1="0" x2="840" y2="820"/>
+    <line x1="880" y1="0" x2="880" y2="820"/><line x1="920" y1="0" x2="920" y2="820"/><line x1="960" y1="0" x2="960" y2="820"/>
+    <line x1="1000" y1="0" x2="1000" y2="820"/><line x1="1040" y1="0" x2="1040" y2="820"/><line x1="1080" y1="0" x2="1080" y2="820"/>
+    <line x1="1120" y1="0" x2="1120" y2="820"/><line x1="1160" y1="0" x2="1160" y2="820"/>
   </g>
 
-  <!-- ===== Root node ===== -->
-  <g transform="translate(90, 100)">
-    <circle r="26" fill="url(#nodeFill)" filter="url(#nodeGlow)"/>
-    <text x="0" y="5" font-family="'Segoe UI', Arial, sans-serif" font-weight="700" font-size="12" fill="#0A0E1A" text-anchor="middle">DEV</text>
+  <!-- scattered stars -->
+  <g fill="#C7D2E8">
+    <circle cx="60" cy="60" r="1.3" opacity="0.5"/><circle cx="140" cy="200" r="1" opacity="0.35"/>
+    <circle cx="1090" cy="90" r="1.4" opacity="0.5"/><circle cx="1000" cy="700" r="1.1" opacity="0.4"/>
+    <circle cx="200" cy="720" r="1.2" opacity="0.4"/><circle cx="950" cy="200" r="1" opacity="0.3"/>
+    <circle cx="80" cy="450" r="1.1" opacity="0.35"/><circle cx="1140" cy="500" r="1.3" opacity="0.4"/>
+    <circle cx="650" cy="40" r="1" opacity="0.3"/><circle cx="500" cy="780" r="1.1" opacity="0.35"/>
   </g>
 
-  <!-- ===== Branch root nodes ===== -->
-  <g transform="translate(230, 130)">
-    <circle r="20" fill="#131826" stroke="#4FC3F7" stroke-width="2"/>
-    <text x="0" y="4" font-family="'Segoe UI', Arial, sans-serif" font-weight="700" font-size="9" fill="#4FC3F7" text-anchor="middle">LANG</text>
-  </g>
-  <g transform="translate(230, 230)">
-    <circle r="20" fill="#131826" stroke="#4FC3F7" stroke-width="2"/>
-    <text x="0" y="4" font-family="'Segoe UI', Arial, sans-serif" font-weight="700" font-size="9" fill="#4FC3F7" text-anchor="middle">TOOLS</text>
-  </g>
-  <g transform="translate(230, 330)">
-    <circle r="20" fill="#131826" stroke="#4FC3F7" stroke-width="2"/>
-    <text x="0" y="4" font-family="'Segoe UI', Arial, sans-serif" font-weight="700" font-size="8" fill="#4FC3F7" text-anchor="middle">LEARN</text>
+  <!-- orbit rings around root -->
+  <circle cx="470" cy="430" r="150" fill="none" stroke="#7C6FF0" stroke-width="1" stroke-dasharray="2 6" opacity="0.22"/>
+  <circle cx="470" cy="430" r="290" fill="none" stroke="#7C6FF0" stroke-width="1" stroke-dasharray="2 6" opacity="0.14"/>
+
+  <!-- ============ HEADER ============ -->
+  <text x="60" y="72" font-family="Consolas, 'Courier New', monospace" font-weight="700" font-size="30" fill="#F3F6FC" letter-spacing="3">SKILL TREE</text>
+  <rect x="62" y="86" width="150" height="4" rx="2" fill="#38D9A9"/>
+  <text x="60" y="114" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#7C6FF0" letter-spacing="1">// Axxet — Software Engineer in progress</text>
+
+  <!-- top-right level badge -->
+  <g transform="translate(1010,40)" filter="url(#softShadow)">
+    <rect width="150" height="56" rx="10" fill="#0d1424" stroke="#38D9A9" stroke-width="1.5"/>
+    <text x="75" y="23" text-anchor="middle" font-family="Consolas, monospace" font-size="10" fill="#7C88A8" letter-spacing="1">CLASS</text>
+    <text x="75" y="42" text-anchor="middle" font-family="Consolas, monospace" font-weight="700" font-size="13" fill="#B7F5E4">Full-Stack Explorer</text>
   </g>
 
-  <!-- ===== Language leaf nodes ===== -->
-  <g transform="translate(410, 95)">
-    <rect x="-58" y="-16" width="116" height="32" rx="16" fill="#131826" stroke="#2196F3" stroke-width="1.5"/>
-    <circle cx="-38" cy="0" r="4" fill="#4FC3F7"/>
-    <text x="-24" y="5" font-family="'Segoe UI', Arial, sans-serif" font-weight="600" font-size="12" fill="#E8F4FD">C++</text>
-  </g>
-  <g transform="translate(410, 165)">
-    <rect x="-70" y="-16" width="140" height="32" rx="16" fill="#131826" stroke="#2196F3" stroke-width="1.5"/>
-    <circle cx="-50" cy="0" r="4" fill="#4FC3F7"/>
-    <text x="-36" y="5" font-family="'Segoe UI', Arial, sans-serif" font-weight="600" font-size="12" fill="#E8F4FD">JavaScript</text>
-  </g>
+  <!-- ============ CONNECTOR LINES ============ -->
+  <g fill="none" stroke-linecap="round">
+    <!-- root -> branch hubs -->
+    <path d="M470,430 L470,240" stroke="#38D9A9" stroke-width="2.5" opacity="0.6"/>
+    <path d="M470,430 L250,430" stroke="#7C6FF0" stroke-width="2.5" opacity="0.55"/>
+    <path d="M470,430 L470,610" stroke="#F4A825" stroke-width="2.5" opacity="0.55"/>
+    <path d="M470,430 L700,430" stroke="#F4A825" stroke-width="2.2" stroke-dasharray="5 5" opacity="0.55"/>
 
-  <!-- ===== Tools leaf nodes ===== -->
-  <g transform="translate(410, 200)">
-    <rect x="-64" y="-16" width="128" height="32" rx="16" fill="#131826" stroke="#2196F3" stroke-width="1.5"/>
-    <circle cx="-44" cy="0" r="4" fill="#4FC3F7"/>
-    <text x="-30" y="5" font-family="'Segoe UI', Arial, sans-serif" font-weight="600" font-size="12" fill="#E8F4FD">Node.js</text>
-  </g>
-  <g transform="translate(410, 260)">
-    <rect x="-78" y="-16" width="156" height="32" rx="16" fill="#131826" stroke="#2196F3" stroke-width="1.5"/>
-    <circle cx="-58" cy="0" r="4" fill="#4FC3F7"/>
-    <text x="-44" y="5" font-family="'Segoe UI', Arial, sans-serif" font-weight="600" font-size="12" fill="#E8F4FD">Web Systems</text>
-  </g>
+    <!-- WEB hub -> leaves -->
+    <path d="M470,205 L330,150" stroke="#38D9A9" stroke-width="1.6" opacity="0.45"/>
+    <path d="M470,205 L340,205" stroke="#38D9A9" stroke-width="1.6" opacity="0.45"/>
+    <path d="M470,205 L600,150" stroke="#38D9A9" stroke-width="1.6" opacity="0.45"/>
+    <path d="M470,205 L610,205" stroke="#38D9A9" stroke-width="1.6" opacity="0.45"/>
 
-  <!-- ===== Learning leaf nodes ===== -->
-  <g transform="translate(410, 300)">
-    <rect x="-56" y="-16" width="112" height="32" rx="16" fill="#131826" stroke="#4FC3F7" stroke-width="1.5" stroke-dasharray="4 3"/>
-    <circle cx="-36" cy="0" r="4" fill="#E8F4FD"/>
-    <text x="-22" y="5" font-family="'Segoe UI', Arial, sans-serif" font-weight="600" font-size="12" fill="#E8F4FD">GTPS</text>
-  </g>
-  <g transform="translate(410, 335)">
-    <rect x="-64" y="-16" width="128" height="32" rx="16" fill="#131826" stroke="#4FC3F7" stroke-width="1.5" stroke-dasharray="4 3"/>
-    <circle cx="-44" cy="0" r="4" fill="#E8F4FD"/>
-    <text x="-30" y="5" font-family="'Segoe UI', Arial, sans-serif" font-weight="600" font-size="12" fill="#E8F4FD">Security</text>
+    <!-- LANG hub -> leaves -->
+    <path d="M210,430 L90,375" stroke="#7C6FF0" stroke-width="1.6" opacity="0.4"/>
+    <path d="M210,430 L80,430" stroke="#7C6FF0" stroke-width="1.6" opacity="0.4"/>
+    <path d="M210,430 L90,485" stroke="#7C6FF0" stroke-width="1.6" opacity="0.4"/>
+
+    <!-- GAMEDEV hub -> leaves -->
+    <path d="M470,645 L310,715" stroke="#F4A825" stroke-width="1.6" opacity="0.45"/>
+    <path d="M470,645 L470,752" stroke="#F4A825" stroke-width="1.6" opacity="0.45"/>
+    <path d="M470,645 L630,715" stroke="#F4A825" stroke-width="1.6" opacity="0.45"/>
+
+    <!-- EXPLORING hub -> leaves -->
+    <path d="M740,430 L860,375" stroke="#F4A825" stroke-width="1.4" stroke-dasharray="4 4" opacity="0.5"/>
+    <path d="M740,430 L870,430" stroke="#F4A825" stroke-width="1.4" stroke-dasharray="4 4" opacity="0.5"/>
+    <path d="M740,430 L860,485" stroke="#F4A825" stroke-width="1.4" stroke-dasharray="4 4" opacity="0.5"/>
   </g>
 
-  <!-- ===== Right side: focus callout ===== -->
-  <g transform="translate(560, 90)">
-    <rect x="0" y="0" width="220" height="270" rx="10" fill="#131826" stroke="#2196F3" stroke-width="1" opacity="0.8"/>
-    <text x="18" y="30" font-family="'Segoe UI', Arial, sans-serif" font-weight="700" font-size="13" fill="#4FC3F7" letter-spacing="1">CURRENT FOCUS</text>
-    <rect x="18" y="40" width="60" height="2" fill="#2196F3"/>
-
-    <circle cx="30" cy="66" r="4" fill="#4FC3F7" filter="url(#nodeGlow)"/>
-    <text x="44" y="70" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#E8F4FD">Performance tuning</text>
-
-    <circle cx="30" cy="98" r="4" fill="#4FC3F7" filter="url(#nodeGlow)"/>
-    <text x="44" y="102" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#E8F4FD">System security</text>
-
-    <circle cx="30" cy="130" r="4" fill="#4FC3F7" filter="url(#nodeGlow)"/>
-    <text x="44" y="134" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#E8F4FD">Backend with Node.js</text>
-
-    <circle cx="30" cy="162" r="4" fill="#E8F4FD" opacity="0.6"/>
-    <text x="44" y="166" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#E8F4FD" opacity="0.7">Exploring GTPS</text>
-
-    <rect x="18" y="200" width="184" height="1" fill="#2196F3" opacity="0.3"/>
-    <text x="18" y="230" font-family="'Segoe UI', Arial, sans-serif" font-style="italic" font-size="12" fill="#4FC3F7">"Build. Secure.</text>
-    <text x="18" y="248" font-family="'Segoe UI', Arial, sans-serif" font-style="italic" font-size="12" fill="#4FC3F7">Improve."</text>
+  <!-- ============ ROOT NODE ============ -->
+  <g transform="translate(470,430)">
+    <circle r="58" fill="url(#rootFill)" filter="url(#glowGreen)"/>
+    <circle r="58" fill="none" stroke="#B7F5E4" stroke-width="1.5" opacity="0.7"/>
+    <text x="0" y="-4" text-anchor="middle" font-family="Consolas, monospace" font-weight="700" font-size="14" fill="#04150F">DEV</text>
+    <text x="0" y="13" text-anchor="middle" font-family="Consolas, monospace" font-weight="700" font-size="14" fill="#04150F">CORE</text>
   </g>
+
+  <!-- ============ BRANCH HUBS ============ -->
+  <!-- WEB (mastered) -->
+  <g transform="translate(470,205)">
+    <circle r="38" fill="#0d1424" stroke="#38D9A9" stroke-width="2.5" filter="url(#glowGreen)"/>
+    <text x="0" y="-2" text-anchor="middle" font-family="Consolas, monospace" font-weight="700" font-size="11" fill="#38D9A9">WEB</text>
+    <text x="0" y="12" text-anchor="middle" font-family="Consolas, monospace" font-size="9" fill="#7FE0C6">Utama</text>
+  </g>
+  <text x="470" y="270" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#A9B4CF">Web Development</text>
+
+  <!-- LANG (secondary) -->
+  <g transform="translate(210,430)">
+    <circle r="34" fill="#0d1424" stroke="#7C6FF0" stroke-width="2.2" filter="url(#glowPurple)"/>
+    <text x="0" y="-1" text-anchor="middle" font-family="Consolas, monospace" font-weight="700" font-size="10" fill="#B7B2F5">LANG</text>
+    <text x="0" y="12" text-anchor="middle" font-family="Consolas, monospace" font-size="8" fill="#9C97D8">Kedua</text>
+  </g>
+  <text x="210" y="490" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#A9B4CF">Bahasa Lain</text>
+
+  <!-- GAMEDEV (mastered / applied) -->
+  <g transform="translate(470,645)">
+    <circle r="38" fill="#0d1424" stroke="#F4A825" stroke-width="2.5" filter="url(#glowGold)"/>
+    <text x="0" y="-2" text-anchor="middle" font-family="Consolas, monospace" font-weight="700" font-size="10" fill="#FBD98A">GAME</text>
+    <text x="0" y="12" text-anchor="middle" font-family="Consolas, monospace" font-size="9" fill="#EFC670">DEV</text>
+  </g>
+  <text x="470" y="708" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#A9B4CF">Game Development</text>
+
+  <!-- EXPLORING (in progress) -->
+  <g transform="translate(740,430)">
+    <circle r="34" fill="#0d1424" stroke="#F4A825" stroke-width="2.2" stroke-dasharray="5 4" filter="url(#glowGold)"/>
+    <text x="0" y="-1" text-anchor="middle" font-family="Consolas, monospace" font-weight="700" font-size="9" fill="#FBD98A">QUEST</text>
+    <text x="0" y="12" text-anchor="middle" font-family="Consolas, monospace" font-size="8" fill="#EFC670">Ongoing</text>
+  </g>
+  <text x="740" y="490" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#A9B4CF">Sedang Dieksplor</text>
+
+  <!-- ============ LEAF NODES: WEB ============ -->
+  <g font-family="Segoe UI, Arial, sans-serif" font-weight="600" font-size="12">
+    <g transform="translate(330,150)">
+      <rect x="-52" y="-16" width="104" height="32" rx="16" fill="#0d1424" stroke="#38D9A9" stroke-width="1.5"/>
+      <circle cx="-34" cy="0" r="3.5" fill="#5CF0CE"/>
+      <text x="-22" y="4.5" fill="#DFF9F0">JavaScript</text>
+    </g>
+    <g transform="translate(340,205)">
+      <rect x="-48" y="-16" width="96" height="32" rx="16" fill="#0d1424" stroke="#38D9A9" stroke-width="1.5"/>
+      <circle cx="-30" cy="0" r="3.5" fill="#5CF0CE"/>
+      <text x="-18" y="4.5" fill="#DFF9F0">Node.js</text>
+    </g>
+    <g transform="translate(600,150)">
+      <rect x="-40" y="-16" width="80" height="32" rx="16" fill="#0d1424" stroke="#38D9A9" stroke-width="1.5"/>
+      <circle cx="-22" cy="0" r="3.5" fill="#5CF0CE"/>
+      <text x="-10" y="4.5" fill="#DFF9F0">React</text>
+    </g>
+    <g transform="translate(610,205)">
+      <rect x="-38" y="-16" width="76" height="32" rx="16" fill="#0d1424" stroke="#38D9A9" stroke-width="1.5"/>
+      <circle cx="-20" cy="0" r="3.5" fill="#5CF0CE"/>
+      <text x="-8" y="4.5" fill="#DFF9F0">Expo</text>
+    </g>
+  </g>
+
+  <!-- ============ LEAF NODES: LANG ============ -->
+  <g font-family="Segoe UI, Arial, sans-serif" font-weight="600" font-size="12">
+    <g transform="translate(90,375)">
+      <rect x="-42" y="-15" width="84" height="30" rx="15" fill="#0d1424" stroke="#7C6FF0" stroke-width="1.4"/>
+      <circle cx="-24" cy="0" r="3.3" fill="#A79CF7"/>
+      <text x="-13" y="4.5" fill="#E3E0FB">Python</text>
+    </g>
+    <g transform="translate(80,430)">
+      <rect x="-32" y="-15" width="64" height="30" rx="15" fill="#0d1424" stroke="#7C6FF0" stroke-width="1.4"/>
+      <circle cx="-15" cy="0" r="3.3" fill="#A79CF7"/>
+      <text x="-4" y="4.5" fill="#E3E0FB">C++</text>
+    </g>
+    <g transform="translate(90,485)">
+      <rect x="-38" y="-15" width="76" height="30" rx="15" fill="#0d1424" stroke="#7C6FF0" stroke-width="1.4"/>
+      <circle cx="-21" cy="0" r="3.3" fill="#A79CF7"/>
+      <text x="-10" y="4.5" fill="#E3E0FB">Golang</text>
+    </g>
+  </g>
+
+  <!-- ============ LEAF NODES: GAMEDEV ============ -->
+  <g font-family="Segoe UI, Arial, sans-serif" font-weight="600" font-size="12">
+    <g transform="translate(310,715)">
+      <rect x="-42" y="-15" width="84" height="30" rx="15" fill="#0d1424" stroke="#F4A825" stroke-width="1.4"/>
+      <circle cx="-25" cy="0" r="3.3" fill="#FBD98A"/>
+      <text x="-14" y="4.5" fill="#FDEFCF">Roblox</text>
+    </g>
+    <g transform="translate(470,752)">
+      <rect x="-34" y="-15" width="68" height="30" rx="15" fill="#0d1424" stroke="#F4A825" stroke-width="1.4"/>
+      <circle cx="-17" cy="0" r="3.3" fill="#FBD98A"/>
+      <text x="-6" y="4.5" fill="#FDEFCF">Unity</text>
+    </g>
+    <g transform="translate(630,715)">
+      <rect x="-58" y="-15" width="116" height="30" rx="15" fill="#0d1424" stroke="#F4A825" stroke-width="1.4"/>
+      <circle cx="-40" cy="0" r="3.3" fill="#FBD98A"/>
+      <text x="-29" y="4.5" fill="#FDEFCF">RPG Maker</text>
+    </g>
+  </g>
+
+  <!-- ============ LEAF NODES: EXPLORING (dashed) ============ -->
+  <g font-family="Segoe UI, Arial, sans-serif" font-weight="600" font-size="12">
+    <g transform="translate(860,375)">
+      <rect x="-58" y="-15" width="116" height="30" rx="15" fill="#0d1424" stroke="#F4A825" stroke-width="1.3" stroke-dasharray="3 3"/>
+      <circle cx="-40" cy="0" r="3.3" fill="#FBD98A" opacity="0.85"/>
+      <text x="-29" y="4.5" fill="#FDEFCF" opacity="0.9">Cybersecurity</text>
+    </g>
+    <g transform="translate(870,430)">
+      <rect x="-26" y="-15" width="52" height="30" rx="15" fill="#0d1424" stroke="#F4A825" stroke-width="1.3" stroke-dasharray="3 3"/>
+      <circle cx="-9" cy="0" r="3.3" fill="#FBD98A" opacity="0.85"/>
+      <text x="1" y="4.5" fill="#FDEFCF" opacity="0.9">AI</text>
+    </g>
+    <g transform="translate(860,485)">
+      <rect x="-56" y="-15" width="112" height="30" rx="15" fill="#0d1424" stroke="#F4A825" stroke-width="1.3" stroke-dasharray="3 3"/>
+      <circle cx="-38" cy="0" r="3.3" fill="#FBD98A" opacity="0.85"/>
+      <text x="-27" y="4.5" fill="#FDEFCF" opacity="0.9">Android Dev</text>
+    </g>
+  </g>
+
+  <!-- ============ LEGEND ============ -->
+  <g transform="translate(60,740)" font-family="Segoe UI, Arial, sans-serif" font-size="12">
+    <circle cx="6" cy="0" r="5" fill="#38D9A9"/>
+    <text x="18" y="4.5" fill="#C7D2E8">Mastered / Utama</text>
+
+    <circle cx="196" cy="0" r="5" fill="#7C6FF0"/>
+    <text x="208" y="4.5" fill="#C7D2E8">Dikuasai</text>
+
+    <circle cx="330" cy="0" r="5" fill="#F4A825"/>
+    <text x="342" y="4.5" fill="#C7D2E8">Diterapkan</text>
+
+    <circle cx="460" cy="0" r="5" fill="none" stroke="#F4A825" stroke-width="1.5" stroke-dasharray="2 2"/>
+    <text x="472" y="4.5" fill="#C7D2E8">Sedang Dieksplor</text>
+  </g>
+
+  <!-- bottom-right flavor text -->
+  <text x="1140" y="795" text-anchor="end" font-family="Consolas, monospace" font-style="italic" font-size="12" fill="#5A6B93">"Build. Explore. Level up."</text>
+
+  <!-- outer frame -->
+  <rect x="2" y="2" width="1196" height="816" rx="16" fill="none" stroke="#1a2544" stroke-width="1.5"/>
 </svg>
