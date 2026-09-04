@@ -1,20 +1,20 @@
 <div align="center">
 
 <!-- ================================================== -->
-<!--  1. HEADER BANNER — COZY ANIME TEA GIF              -->
+<!--  1. HEADER BANNER — PIXEL TEA ROOM (SVG, self-contained) -->
 <!-- ================================================== -->
-<img src="https://cdn.jsdelivr.net/gh/catppuccin/catppuccin@main/assets/misc/dividers/rainbow.svg" width="100%"/>
-
-<img src="https://i.pinimg.com/originals/8a/2d/7e/8a2d7e0d5b9b7f2e2c8b9f6f2e8f6f2e.gif" width="100%" alt="cozy tea room banner" onerror="this.style.display='none'"/>
+<img src="./assets/banner.svg" width="100%" alt="Axxet's Tea Corner banner"/>
 
 <!-- ================================================== -->
 <!--  2. TYPING SVG HEADER                                -->
 <!-- ================================================== -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=D32F2F&background=23171B00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+Axxet's+Tea+Corner!;Level+1+Aspiring+Developer;Brewing+Code+%26+Chai..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=D32F2F&background=23171B00&center=true&vCenter=true&multiline=true&width=600&height=90&lines=Welcome+to+Axxet's+Tea+Corner!;Level+1+Aspiring+Developer;Brewing+Code+%26+Chai..." alt="Typing SVG" />
 </a>
 
-<img src="https://cdn.jsdelivr.net/gh/catppuccin/catppuccin@main/assets/misc/dividers/rainbow.svg" width="100%"/>
+<br/>
+
+<img src="https://img.shields.io/badge/%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80-D32F2F?style=flat-square&labelColor=D32F2F&color=D32F2F" height="3"/>
 
 </div>
 
@@ -29,11 +29,9 @@
 
 </div>
 
-<table align="center" width="100%" style="border-collapse: collapse; background-color:#23171B;">
+<table align="center" width="80%" style="border-collapse: collapse; background-color:#23171B;">
 <tr>
-<td width="50%" valign="top">
-
-<div align="center">
+<td width="70%" valign="top">
 
 |  |  |
 |:---|:---|
@@ -43,12 +41,10 @@
 | ⭐ **EXP** | `Daily Coding Quest` |
 | 📍 **Guild** | `Open Source Tavern` |
 
-</div>
-
 </td>
-<td width="50%" align="center" valign="middle">
+<td width="30%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="110" alt="tea cup"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="80" alt="tea cup"/>
 
 </td>
 </tr>
@@ -143,7 +139,7 @@
 
 <br/>
 
-<img src="https://cdn.jsdelivr.net/gh/catppuccin/catppuccin@main/assets/misc/dividers/rainbow.svg" width="100%"/>
+<img src="https://img.shields.io/badge/%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80-D32F2F?style=flat-square&labelColor=D32F2F&color=D32F2F" height="3"/>
 
 <!-- ================================================== -->
 <!--  8. FOOTER — SOCIAL BUTTONS                          -->
