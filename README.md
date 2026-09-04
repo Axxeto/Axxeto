@@ -68,7 +68,7 @@
 <table align="center" border="0" cellspacing="10" cellpadding="0">
 <tr>
 <td valign="top" width="50%">
-<img src="/assets/stats.svg" alt="GitHub stats Axxeto" width="100%"/>
+<img src="/profile/stats.svg" alt="GitHub stats Axxeto" width="100%"/>
 </td>
 <td valign="top" width="50%">
 <img src="https://streak-stats.demolab.com/?user=Axxeto&theme=dark&background=0A0E1A&stroke=2196F3&ring=2196F3&fire=4FC3F7&currStreakLabel=E8F4FD&currStreakNum=E8F4FD&sideLabels=E8F4FD&sideNums=E8F4FD&dates=E8F4FD&hide_border=false&border=2196F3" width="100%"/>
