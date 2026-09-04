@@ -4,7 +4,7 @@
 <!--  1. HEADER BANNER — uploaded cyber-blue banner       -->
 <!-- ================================================== -->
 <p align="center">
-  <img src="/assets/Banner.gif" width="100%">
+  <img src="/.github/workflows/Banner.gif" width="100%">
 </p>
 
 <!-- ================================================== -->
