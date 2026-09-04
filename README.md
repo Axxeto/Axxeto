@@ -1,87 +1,40 @@
 <div align="center">
 
 <!-- ================================================== -->
-<!--  1. HEADER BANNER — PIXEL TEA ROOM (SVG, self-contained) -->
+<!--  1. HEADER BANNER — uploaded cyber-blue banner       -->
 <!-- ================================================== -->
-<p align="center">
-  <img src="assets/Banner.png" alt="Axxet's Tea Corner Banner" width="100%" style="border-radius: 50px;">
-</p>
+<img src="assets/Banner.png" alt="Axxet's Banner" width="100%"/>
 
 <!-- ================================================== -->
 <!--  2. TYPING SVG HEADER                                -->
 <!-- ================================================== -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=D32F2F&background=23171B00&center=true&vCenter=true&multiline=true&width=600&height=90&lines=Welcome+to+Axxet's+Tea+Corner!;Level+1+Aspiring+Developer;Brewing+Code+%26+Chai..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&duration=3000&pause=1000&color=4FC3F7&background=0A0E1A00&center=true&vCenter=true&multiline=true&width=650&height=90&lines=Hi%2C+I'm+Axxet;Aspiring+Developer;Build.+Secure.+Improve." alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80-D32F2F?style=flat-square&labelColor=D32F2F&color=D32F2F" height="3"/>
+<img src="https://img.shields.io/badge/%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80-2196F3?style=flat-square&labelColor=2196F3&color=2196F3" height="3"/>
 
 </div>
 
 <br/>
 
 <!-- ================================================== -->
-<!--  3. CHARACTER STATUS — RPG VISUAL STAT SHEET         -->
+<!--  3. CHARACTER STATUS — SVG HUD PANEL                 -->
 <!-- ================================================== -->
-<div align="center">
-
-### 🍵 Character Status
-
-</div>
-
-<table align="center" width="80%" style="border-collapse: collapse; background-color:#23171B;">
-<tr>
-<td width="70%" valign="top">
-
-|  |  |
-|:---|:---|
-| 🎭 **Class** | `Code Apprentice` |
-| ❤️ **HP** | `██████████` 100/100 |
-| 🍵 **MP (Tea/Coffee)** | `█████████▓` 99/99 |
-| ⭐ **EXP** | `Daily Coding Quest` |
-| 📍 **Guild** | `Open Source Tavern` |
-
-</td>
-<td width="30%" align="center" valign="middle">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="80" alt="tea cup"/>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="assets/status-panel.svg" alt="Character Status" width="85%"/>
+</p>
 
 <br/>
 
 <!-- ================================================== -->
-<!--  4. SKILL TREE — TECH STACK BADGES                   -->
+<!--  4. SKILL TREE — SVG NODE GRAPH                      -->
 <!-- ================================================== -->
-<div align="center">
-
-### 🗡️ Skill Tree
-
-**⚔️ Language**
-
-<img src="https://img.shields.io/badge/Python-23171B?style=for-the-badge&logo=python&logoColor=F5E6D3&labelColor=23171B&color=D32F2F" />
-<img src="https://img.shields.io/badge/JavaScript-23171B?style=for-the-badge&logo=javascript&logoColor=F5E6D3&labelColor=23171B&color=D32F2F" />
-<img src="https://img.shields.io/badge/HTML5-23171B?style=for-the-badge&logo=html5&logoColor=F5E6D3&labelColor=23171B&color=D32F2F" />
-<img src="https://img.shields.io/badge/CSS3-23171B?style=for-the-badge&logo=css3&logoColor=F5E6D3&labelColor=23171B&color=D32F2F" />
-
-**🛠️ Tools**
-
-<img src="https://img.shields.io/badge/Git-23171B?style=for-the-badge&logo=git&logoColor=F5E6D3&labelColor=23171B&color=D32F2F" />
-<img src="https://img.shields.io/badge/GitHub-23171B?style=for-the-badge&logo=github&logoColor=F5E6D3&labelColor=23171B&color=D32F2F" />
-<img src="https://img.shields.io/badge/VS%20Code-23171B?style=for-the-badge&logo=visualstudiocode&logoColor=F5E6D3&labelColor=23171B&color=D32F2F" />
-<img src="https://img.shields.io/badge/Figma-23171B?style=for-the-badge&logo=figma&logoColor=F5E6D3&labelColor=23171B&color=D32F2F" />
-
-**📖 Currently Learning**
-
-<img src="https://img.shields.io/badge/React-23171B?style=for-the-badge&logo=react&logoColor=F5E6D3&labelColor=23171B&color=D32F2F" />
-<img src="https://img.shields.io/badge/Node.js-23171B?style=for-the-badge&logo=nodedotjs&logoColor=F5E6D3&labelColor=23171B&color=D32F2F" />
-<img src="https://img.shields.io/badge/SQL-23171B?style=for-the-badge&logo=mysql&logoColor=F5E6D3&labelColor=23171B&color=D32F2F" />
-
-</div>
+<p align="center">
+  <img src="assets/skill-tree.svg" alt="Skill Tree" width="85%"/>
+</p>
 
 <br/>
 
@@ -90,9 +43,9 @@
 <!-- ================================================== -->
 <div align="center">
 
-### 🏆 RPG Trophies
+### 🏆 Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=[USERNAME]&theme=darkhub&no-bg=true&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=[USERNAME]&theme=algolia&no-bg=true&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" />
 
 </div>
 
@@ -103,20 +56,20 @@
 <!-- ================================================== -->
 <div align="center">
 
-### 📊 Quest Log & Stats
+### 📊 Stats
 
 <table align="center" border="0" cellspacing="10" cellpadding="0">
 <tr>
 <td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=[USERNAME]&theme=raw&bg_color=23171B&title_color=D32F2F&text_color=F5E6D3&icon_color=D32F2F&border_color=4A2E35&show_icons=true&hide_border=false&hide_title=false" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=[USERNAME]&theme=react&bg_color=0A0E1A&title_color=4FC3F7&text_color=E8F4FD&icon_color=2196F3&border_color=2196F3&show_icons=true&hide_border=false&hide_title=false" width="100%"/>
 </td>
 <td valign="top" width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=[USERNAME]&theme=dark&background=23171B&stroke=4A2E35&ring=D32F2F&fire=D32F2F&currStreakLabel=F5E6D3&currStreakNum=F5E6D3&sideLabels=F5E6D3&sideNums=F5E6D3&dates=F5E6D3&hide_border=false&border=4A2E35" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=[USERNAME]&theme=dark&background=0A0E1A&stroke=2196F3&ring=2196F3&fire=4FC3F7&currStreakLabel=E8F4FD&currStreakNum=E8F4FD&sideLabels=E8F4FD&sideNums=E8F4FD&dates=E8F4FD&hide_border=false&border=2196F3" width="100%"/>
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME]&layout=compact&theme=raw&bg_color=23171B&title_color=D32F2F&text_color=F5E6D3&border_color=4A2E35&hide_border=false&langs_count=8" width="55%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME]&layout=compact&theme=react&bg_color=0A0E1A&title_color=4FC3F7&text_color=E8F4FD&border_color=2196F3&hide_border=false&langs_count=8" width="55%"/>
 
 </div>
 
@@ -127,7 +80,7 @@
 <!-- ================================================== -->
 <div align="center">
 
-### 🐍 Daily Grind Log
+### 🐍 Contribution Grid
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/github-contribution-grid-snake-dark.svg" />
@@ -135,31 +88,31 @@
   <img alt="snake contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
-<sub>⚠️ Belum aktif? Ikuti setup singkat "Cara Mengaktifkan Snake Graph" di bawah README.</sub>
+<sub>⚠️ Belum aktif? Jalankan workflow <code>snake.yml</code> sekali secara manual dari tab Actions.</sub>
 
 </div>
 
 <br/>
 
-<img src="https://img.shields.io/badge/%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80-D32F2F?style=flat-square&labelColor=D32F2F&color=D32F2F" height="3"/>
+<img src="https://img.shields.io/badge/%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80-2196F3?style=flat-square&labelColor=2196F3&color=2196F3" height="3"/>
 
 <!-- ================================================== -->
 <!--  8. FOOTER — SOCIAL BUTTONS                          -->
 <!-- ================================================== -->
 <div align="center">
 
-### 🍰 Join Me for Tea
+### 🔗 Connect
 
-<img src="https://img.shields.io/badge/Instagram-23171B?style=for-the-badge&logo=instagram&logoColor=F5E6D3&labelColor=23171B&color=D32F2F" />
-<img src="https://img.shields.io/badge/Discord-23171B?style=for-the-badge&logo=discord&logoColor=F5E6D3&labelColor=23171B&color=D32F2F" />
-<img src="https://img.shields.io/badge/LinkedIn-23171B?style=for-the-badge&logo=linkedin&logoColor=F5E6D3&labelColor=23171B&color=D32F2F" />
-<img src="https://img.shields.io/badge/Gmail-23171B?style=for-the-badge&logo=gmail&logoColor=F5E6D3&labelColor=23171B&color=D32F2F" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=[USERNAME]&label=Tea+Room+Visitors&color=D32F2F&style=for-the-badge&labelColor=23171B" />
+<img src="https://img.shields.io/badge/Instagram-0A0E1A?style=for-the-badge&logo=instagram&logoColor=E8F4FD&labelColor=0A0E1A&color=2196F3" />
+<img src="https://img.shields.io/badge/Discord-0A0E1A?style=for-the-badge&logo=discord&logoColor=E8F4FD&labelColor=0A0E1A&color=2196F3" />
+<img src="https://img.shields.io/badge/LinkedIn-0A0E1A?style=for-the-badge&logo=linkedin&logoColor=E8F4FD&labelColor=0A0E1A&color=2196F3" />
+<img src="https://img.shields.io/badge/Gmail-0A0E1A?style=for-the-badge&logo=gmail&logoColor=E8F4FD&labelColor=0A0E1A&color=2196F3" />
 
 <br/><br/>
-<sub>🍵 "Setiap baris kode adalah seduhan teh yang lebih matang." 🍵</sub>
+
+<img src="https://komarev.com/ghpvc/?username=[USERNAME]&label=Profile+Views&color=2196F3&style=for-the-badge&labelColor=0A0E1A" />
+
+<br/><br/>
+<sub>⚡ "Build. Secure. Improve." ⚡</sub>
 
 </div>
