@@ -45,7 +45,7 @@
 
 ### 🏆 Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=[USERNAME]&theme=algolia&no-bg=true&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=Axxeto&theme=algolia&no-bg=true&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" />
 
 </div>
 
@@ -61,15 +61,15 @@
 <table align="center" border="0" cellspacing="10" cellpadding="0">
 <tr>
 <td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=[USERNAME]&theme=react&bg_color=0A0E1A&title_color=4FC3F7&text_color=E8F4FD&icon_color=2196F3&border_color=2196F3&show_icons=true&hide_border=false&hide_title=false" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Axxeto&theme=react&bg_color=0A0E1A&title_color=4FC3F7&text_color=E8F4FD&icon_color=2196F3&border_color=2196F3&show_icons=true&hide_border=false&hide_title=false" width="100%"/>
 </td>
 <td valign="top" width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=[USERNAME]&theme=dark&background=0A0E1A&stroke=2196F3&ring=2196F3&fire=4FC3F7&currStreakLabel=E8F4FD&currStreakNum=E8F4FD&sideLabels=E8F4FD&sideNums=E8F4FD&dates=E8F4FD&hide_border=false&border=2196F3" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Axxeto&theme=dark&background=0A0E1A&stroke=2196F3&ring=2196F3&fire=4FC3F7&currStreakLabel=E8F4FD&currStreakNum=E8F4FD&sideLabels=E8F4FD&sideNums=E8F4FD&dates=E8F4FD&hide_border=false&border=2196F3" width="100%"/>
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME]&layout=compact&theme=react&bg_color=0A0E1A&title_color=4FC3F7&text_color=E8F4FD&border_color=2196F3&hide_border=false&langs_count=8" width="55%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axxeto&layout=compact&theme=react&bg_color=0A0E1A&title_color=4FC3F7&text_color=E8F4FD&border_color=2196F3&hide_border=false&langs_count=8" width="55%"/>
 
 </div>
 
@@ -83,9 +83,9 @@
 ### 🐍 Contribution Grid
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/github-contribution-grid-snake.svg" />
-  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Axxeto/Axxeto/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Axxeto/Axxeto/output/github-contribution-grid-snake.svg" />
+  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/Axxeto/Axxeto/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
 <sub>⚠️ Belum aktif? Jalankan workflow <code>snake.yml</code> sekali secara manual dari tab Actions.</sub>
@@ -110,7 +110,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=[USERNAME]&label=Profile+Views&color=2196F3&style=for-the-badge&labelColor=0A0E1A" />
+<img src="https://komarev.com/ghpvc/?username=Axxeto&label=Profile+Views&color=2196F3&style=for-the-badge&labelColor=0A0E1A" />
 
 <br/><br/>
 <sub>⚡ "Build. Secure. Improve." ⚡</sub>
