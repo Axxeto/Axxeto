@@ -4,7 +4,7 @@
 <!--  1. HEADER BANNER — uploaded cyber-blue banner       -->
 <!-- ================================================== -->
 <p align="center">
-  <img src="https://res.cloudinary.com/wra0ryoh/video/upload/v1788502893/ecbbb09f-75f8-45e4-ad08-f52585344bb0_p8uro1.mp4" width="100%">
+  <img src="https://ik.imagekit.io/ewx4cuofl/Banner.gif" width="100%">
 </p>
 
 <!-- ================================================== -->
