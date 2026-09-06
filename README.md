@@ -78,8 +78,6 @@
 
 <img src="profile/top-langs.svg" alt="Top languages Axxeto" width="55%"/>
 
-<sub>⚙️ Kartu Stats & Top Languages di atas di-generate otomatis tiap hari lewat GitHub Actions (self-hosted, bukan server pihak ketiga) — lihat <code>.github/workflows/update-cards.yml</code>. Jalankan sekali secara manual dari tab Actions kalau <code>profile/stats.svg</code> belum muncul.</sub>
-
 </div>
 
 <br/>
@@ -96,8 +94,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Axxeto/Axxeto/output/github-contribution-grid-snake.svg" />
   <img alt="snake contribution graph" src="https://raw.githubusercontent.com/Axxeto/Axxeto/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
-
-<sub>⚠️ Belum aktif? Jalankan workflow <code>snake.yml</code> sekali secara manual dari tab Actions.</sub>
 
 </div>
 
